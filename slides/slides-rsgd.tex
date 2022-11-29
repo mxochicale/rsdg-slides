@@ -1,0 +1,70 @@
+\documentclass[xcolor={dvipsnames},aspectratio=169,10pt]{beamer}
+\usetheme{mx}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+%\input{preamble.tex}
+
+
+\title{  
+Miguel Xochicale -- Introduction
+% Miguel Xochicale: Past, present and future
+%Tue 29 Nov 00:48:01 GMT 2022
+} 
+
+\subtitle{RSGD slides}
+
+\author{
+{\bf Miguel Xochicale, PhD} (\faTwitter @\_mxochicale  \faGithub @mxochicale)
+}
+\date{
+%Workshop Presenting with Confidence \\
+%January 27, 2021; 11h00m
+\today
+}
+\institute{
+	Advanced Research Computing Centre and WEISS \\
+	Universtiy College London
+	}
+
+\titlegraphic{
+  \begin{tikzpicture}[overlay, remember picture]
+    \node[%
+      above right=0.35cm and -0.2cm of current page footer area.south west,
+      anchor=south west,
+      inner sep=0pt] {%
+      \usebeamerfont{footline}
+      \begin{tabular}{lm{.8\textwidth}}
+        \href{http://creativecommons.org/licenses/by/4.0/}{\ccby} &
+        This slices is licensed under a
+	\href{http://creativecommons.org/licenses/by/4.0/}
+		{Creative Commons ``Attribution 4.0 International''} license. 
+	\par Get source of this slides and see further references 
+		from \url{https://github.com/mxochicale/ADDREPONAME}.
+      \end{tabular}
+    };
+    \node[%
+      above left=0.35cm and 0cm of current page footer area.south east,
+      anchor=south east,
+      inner sep=0pt]{\qrcode[height=1.5cm]{https://github.com/mxochicale/ADDREPONAME}};
+  \end{tikzpicture}
+}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}
+\frametitle{Table of Contents}
+    \tableofcontents
+\end{frame}
+
+\input{content-tex/who-i-am}
+\input{content-tex/phd}
+\input{content-tex/us-needle-tracking}
+\input{content-tex/ai-enabled-echocardiography}
+\input{content-tex/ultrasound-image-synthesis}
+\input{content-tex/appendix}
+
+% \maketitle
+
+\end{document}
