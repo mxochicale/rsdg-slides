@@ -1,6 +1,6 @@
 # Slides
 
-[![GitHub Actions Status](https://github.com/mxochicale/fellowship/workflows/Compiling-TeX-CI-SLIDES/badge.svg)](https://github.com/mxochicale/fellowship/actions) [![slides](https://img.shields.io/badge/read-slides-blue.svg)](https://github.com/mxochicale/fellowship/blob/pdfs/slides.pdf)
+[![GitHub Actions Status](https://github.com/mxochicale/rsdg-slides/workflows/Compiling-TeX-Slides/badge.svg)](https://github.com/mxochicale/rsdg-slides/actions) [![slides](https://img.shields.io/badge/see-slides-blue.svg)](https://github.com/mxochicale/rsdg-slides/blob/pdfs/slides-rsgd.pdf) 
 
 ## Building tex abstract with:
 Commit changes
