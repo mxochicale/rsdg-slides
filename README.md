@@ -1,5 +1,9 @@
 # Slides for "Introduction - Miguel Xochicale"
 
+[![slides](https://img.shields.io/badge/see-slides-blue.svg)](https://github.com/mxochicale/rsdg-slides/blob/pdfs/slides-rsgd.pdf) 
+[![GitHub Actions Status](https://github.com/mxochicale/rsdg-slides/actions/workflows/Compiling-TeX-Slides/badge.svg)](https://github.com/mxochicale/rsdg-slides/actions) 
+[![LaTeX-project](https://img.shields.io/badge/see-LaTeXproject-yellow.svg)](slides) 
+
 ## Abstract
 In this presentation I present my journey as Research Engineer from my PhD in Human-Robot Interaction at University of Birmingham, three-year postdoctoral postions at King's College London pushing forward research on medical imaging, MedTech and clinical translation.
 
