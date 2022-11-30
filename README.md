@@ -1,7 +1,7 @@
 # Slides for "Introduction - Miguel Xochicale"
 
 [![slides](https://img.shields.io/badge/see-slides-blue.svg)](https://github.com/mxochicale/rsdg-slides/blob/pdfs/slides-rsgd.pdf) 
-[![GitHub Actions Status](https://github.com/mxochicale/rsdg-slides/actions/workflows/Compiling-TeX-Slides/badge.svg)](https://github.com/mxochicale/rsdg-slides/actions) 
+[![GitHub Actions Status](https://github.com/mxochicale/rsdg-slides/workflows/Compiling-TeX-Slides/badge.svg)](https://github.com/mxochicale/rsdg-slides/actions) 
 [![LaTeX-project](https://img.shields.io/badge/see-LaTeXproject-yellow.svg)](slides) 
 
 ## Abstract
