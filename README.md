@@ -14,6 +14,9 @@ After generating your SSH keys as suggested [here](https://github.com/mxochicale
 git clone git@github.com:mxochicale/rsdg-slides.git
 ```
 
+## CITEX workflow
+See https://github.com/free-cortex/framework/tree/main/workflow
+
 ## Contact and issue report
 If you have specific questions about the content of this repository, you can contact [Miguel Xochicale](mailto:m.xochicale@ucl.ac.uk?subject="[rsgd-slides]").    
 If your question might be relevant to other people, please instead [open an issue](https://github.com/mxochicale/rsdg-slides/issues).
